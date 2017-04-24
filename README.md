@@ -1,1 +1,3 @@
-# qcbs_bayesian_workshop
+# QCBS Bayesian Workshop
+
+You'll find the code somewhere...
